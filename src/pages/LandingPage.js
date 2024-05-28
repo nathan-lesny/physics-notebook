@@ -1,6 +1,5 @@
 import React from 'react';
 import logo from '../assets/BlockM.png';
-import SampleGraph from './SampleGraph';
 import './landingpage.css';
 import Navbar from '../components/Navbar';
 
