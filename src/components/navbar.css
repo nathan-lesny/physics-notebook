@@ -1,0 +1,35 @@
+nav {
+  display: flex;
+  align-items: center;
+  padding: 1rem 2rem;
+  background-color: #00274C;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  position: fixed;
+  top: 0;
+  width: 100%;
+  margin: 0;
+}
+
+.logo {
+  width: 100px;
+}
+
+.nav-link {
+  color: white;
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  font-size: large;
+}
+
+.nav-links {
+  position: fixed;
+  right: 0;
+  margin-right: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav-spacer {
+  height: 130px;
+}

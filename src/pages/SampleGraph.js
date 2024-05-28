@@ -143,8 +143,7 @@ function SampleGraph() {
   return (
     <>
       <h1>Sample Graph</h1>
-      <div id={"mathbox"} style={{"height": "500px"}} >
-      </div>
+      <div id={"mathbox"} style={{"height": "500px"}} />
     </>
   )
 }
